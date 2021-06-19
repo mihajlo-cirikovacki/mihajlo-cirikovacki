@@ -19,7 +19,7 @@ I'm Mihajlo from Serbia, and I do Development. I really enjoy learning and divin
 
 ---
 
-#### My work
+#### My work:
 - [Recipe application with custom recipe uploads.](https://forkify-miha-cirikovacki.netlify.app/)
 
 
