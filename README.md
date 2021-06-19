@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Mihajlo
 #### Web Development
-![Web Development](https://image.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg)
+![Web Development](https://github.com/mihajlo-cirikovacki/mihajlo-cirikovacki/blob/main/application-laptop.jpg)
 
 I'm Mihajlo from Serbia, and I do Development. I really enjoy learning and diving deep in JavaScript language, as well as work on custom websites.
 
